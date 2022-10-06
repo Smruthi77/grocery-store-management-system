@@ -1,0 +1,37 @@
+body
+{
+	background-image:url('http://2.bp.blogspot.com/-tV9ojtYKh-0/UcXiDCgU0rI/AAAAAAAAAGg/XQNUj0Liy3M/w1200-h630-p-k-no-nu/Green+Images+Vector+Background.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+form
+{
+	margin-top: 300px;
+}
+table
+{
+	margin-top: 100px;
+	border-color: violet;
+	border-radius: 10px;
+	border-collapse: separate;
+}
+label
+{
+	color:red;
+}
+input
+{
+	background-color: skyblue;
+	border-radius: 10px;
+	
+}
+.button
+{
+	background-color:white;
+	width:100%;
+	border-radius:10px;
+}
+.btn
+{
+margin-left: 85px;	
+}
